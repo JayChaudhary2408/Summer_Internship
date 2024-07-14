@@ -1,0 +1,15 @@
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/bin/Debug/net8.0/Business_logic_Layer.deps.json
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/bin/Debug/net8.0/Business_logic_Layer.dll
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/bin/Debug/net8.0/Business_logic_Layer.pdb
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/bin/Debug/net8.0/Data_Access_Layer.dll
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/bin/Debug/net8.0/Data_Access_Layer.pdb
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.csproj.AssemblyReference.cache
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.AssemblyInfoInputs.cache
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.AssemblyInfo.cs
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.csproj.CoreCompileInputs.cache
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business.B10BAD81.Up2Date
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.dll
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/refint/Business_logic_Layer.dll
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/Business_logic_Layer.pdb
+/Users/jaychaudhary/Downloads/CIPlatfromWebAPI_PostgreSQL-master/Business_logic_Layer/obj/Debug/net8.0/ref/Business_logic_Layer.dll
